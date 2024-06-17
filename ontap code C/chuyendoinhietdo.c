@@ -1,5 +1,6 @@
-#include <stdio.h>
+// Chuyen doi nhiet do: Viet chuong trinh chuyen doi nhiet do tu Celsius sang Fahrenheit và nguoc lai.
 
+#include <stdio.h>
 double chuyen_c_sang_f(double c) 
 {
     return (c * 9.0 / 5.0) + 32.0;
