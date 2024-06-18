@@ -1,4 +1,4 @@
-//Tim tu d‡i nhat: Viet chuong trinh tim tu dai nhat trong mot chuoi ki tu.
+//Tim tu d√†i nhat: Viet chuong trinh tim tu dai nhat trong mot chuoi ki tu.
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -11,7 +11,7 @@ int main()
     { 	
     	int n = strlen(s);
         if( n > max)
-		{
+	{
             max=n;
             strcpy(a,token);
         }
