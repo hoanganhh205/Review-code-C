@@ -1,4 +1,4 @@
-//–oi co so: Viet chuong trinh chuyen doi mot so nguyÍn tu he co so 10 sang he co so 2.
+//√êoi co so: Viet chuong trinh chuyen doi mot so nguy√™n tu he co so 10 sang he co so 2.
 #include<stdio.h>
 int main() {
     int a[101], i = 0;
@@ -10,7 +10,7 @@ int main() {
         return 0;
     }
     while (n != 0) 
-	{
+    {
         a[i++] = n % 2;
         n /= 2;
     }
