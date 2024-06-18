@@ -1,3 +1,4 @@
+//Tính tổng dãy số: Viết chương trình tính tổng dãy số từ 1 đến n.
 #include <stdio.h>
 int main() 
 {
